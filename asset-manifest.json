@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-contact-list/static/css/main.7837d61b.chunk.css",
+    "main.js": "/react-contact-list/static/js/main.e308fa3f.chunk.js",
+    "main.js.map": "/react-contact-list/static/js/main.e308fa3f.chunk.js.map",
+    "runtime~main.js": "/react-contact-list/static/js/runtime~main.784bec08.js",
+    "runtime~main.js.map": "/react-contact-list/static/js/runtime~main.784bec08.js.map",
+    "static/js/2.cb89b741.chunk.js": "/react-contact-list/static/js/2.cb89b741.chunk.js",
+    "static/js/2.cb89b741.chunk.js.map": "/react-contact-list/static/js/2.cb89b741.chunk.js.map",
+    "index.html": "/react-contact-list/index.html",
+    "precache-manifest.d64d63c5d0f7bfcfb9a27dcfac9c16d9.js": "/react-contact-list/precache-manifest.d64d63c5d0f7bfcfb9a27dcfac9c16d9.js",
+    "service-worker.js": "/react-contact-list/service-worker.js",
+    "static/css/main.7837d61b.chunk.css.map": "/react-contact-list/static/css/main.7837d61b.chunk.css.map",
+    "static/media/arrow-back.svg": "/react-contact-list/static/media/arrow-back.c0c5c509.svg",
+    "static/media/cancel.svg": "/react-contact-list/static/media/cancel.32cee437.svg",
+    "static/media/person-add.svg": "/react-contact-list/static/media/person-add.e24cad82.svg",
+    "static/media/index.css": "/react-contact-list/static/media/person.198acd46.svg",
+    "static/media/search.svg": "/react-contact-list/static/media/search.b884e292.svg"
+  }
+}

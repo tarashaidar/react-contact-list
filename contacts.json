@@ -1,0 +1,32 @@
+[
+    {
+      "phone": "05-53-02-24-62",
+      "name": "Mike Fernandez",
+      "email": "mike@reacttraining.com",
+      "avatarURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToTQn5yWj4vydzcG-tTLUgGLG-QfO-6kuV8eQxZVLzxPJFyJ0o"
+    },
+    {
+      "phone": "0254-1738516",
+      "name": "Adam Roux",
+      "email": "adam@reacttraining.com",
+      "avatarURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4EZqw_YM95f0PVQzgE6ErW3ViZZM8Z8sAQZ4dXkzAB8SETdEH"
+    },
+    {
+      "phone": "995-365-6380",
+      "name": "Ellie Williams",
+      "email": "ellie@reacttraining.com",
+      "avatarURL": "https://hips.hearstapps.com/digitalspyuk.cdnds.net/18/44/1540913834-sigourneyweaveravatar.jpg?resize=480:*"
+    },
+    {
+      "phone": "733-535-0218",
+      "name": "Ella Morin",
+      "email": "ella@reacttraining.com",
+      "avatarURL": "https://i.ytimg.com/vi/aEvItEpMly8/maxresdefault.jpg"
+    },
+    {
+      "phone": "160-796-8093",
+      "name": "Sem Alst",
+      "email": "sem@reacttraining.com",
+      "avatarURL": "https://i.pinimg.com/236x/55/17/a4/5517a45e6cacd004f00974e7909f3b48--blue-avatar-avatar-film.jpg"
+    }
+  ]
